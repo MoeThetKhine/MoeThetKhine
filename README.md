@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
+<div style="display: flex; justify-content: center; align-items: center; max-width: 1000px; margin: 0 auto; gap: 20px;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=MoeThetKhine&theme=dark" alt="GitHub Streak" style="width: 42%;" />
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=MoeThetKhine&show_icons=true&theme=radical" style="width: 40%" alt="Moe Thet's GitHub stats" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
+<hr />

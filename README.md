@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <div style="display: flex; justify-content: center; align-items: center; max-width: 1000px; margin: 0 auto; gap: 20px;">
     <a href="https://git.io/streak-stats">
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=MoeThetKhine&show_icons=true&theme=radical" style="width: 40%" alt="Moe Thet's GitHub stats" />
 </div>
 
-<hr />
+<hr />-->

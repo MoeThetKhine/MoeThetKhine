@@ -26,8 +26,14 @@ Here are some ideas to get you started:
 
 <hr />-->
 
+# 👋 Hello, I'm Moe Thet Khine
+Welcome to my GitHub profile!
 
-# Hello, I'm Moe Thet Khine 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=moethetkhine&theme=radical&hide_border=true)](https://git.io/streak-stats)
+### 🔥 Current Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=moethetkhine&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=moethetkhine&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 📊 GitHub Stats
+![Moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=moethetkhine&show_icons=true&theme=radical)
+
+### 📚 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moethetkhine&layout=compact&theme=radical)](https://github.com/moethetkhine)

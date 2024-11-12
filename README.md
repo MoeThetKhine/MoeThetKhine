@@ -20,6 +20,14 @@ Here are some ideas to get you started:
         <img src="https://streak-stats.demolab.com/?user=MoeThetKhine&theme=dark" alt="GitHub Streak" style="width: 42%;" />
     </a>
     <img src="https://github-readme-stats.vercel.app/api?username=MoeThetKhine&show_icons=true&theme=radical" style="width: 40%" alt="Moe Thet's GitHub stats" />
+
+    
 </div>
 
 <hr />-->
+
+
+# Hello, I'm Moe Thet Khine 👋
+[![GitHub Streak](https://streak-stats.demolab.com/?user=moethetkhine&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=moethetkhine&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)

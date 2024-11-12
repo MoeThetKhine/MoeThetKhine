@@ -25,15 +25,14 @@ Here are some ideas to get you started:
 </div>
 
 <hr />-->
-
 # 👋 Hello, I'm Moe Thet Khine
-Welcome to my GitHub profile!
 
 ### 🔥 Current Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=moethetkhine&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=moethetkhine&theme=radical&hide_border=true&include_all_commits=true)](https://git.io/streak-stats)
 
-### 📊 GitHub Stats
-![Moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=moethetkhine&show_icons=true&theme=radical)
+### 📊 GitHub Stats (Including Private Repos)
+![Moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=moethetkhine&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ### 📚 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moethetkhine&layout=compact&theme=radical)](https://github.com/moethetkhine)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moethetkhine&layout=compact&theme=radical&count_private=true)](https://github.com/moethetkhine)
+

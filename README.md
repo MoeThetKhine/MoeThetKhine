@@ -27,12 +27,6 @@ Here are some ideas to get you started:
 <hr />-->
 # 👋 Hello, I'm Moe Thet Khine
 
-<div style="display:flex; justify-content: center;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" width="45"/>
-</div>
-
 <br />
 
 <div style="display: flex; justify-content: center; align-items: center; max-width: 1000px; margin: 0 auto; gap: 20px;">

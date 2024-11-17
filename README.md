@@ -24,8 +24,8 @@ Here are some ideas to get you started:
     
 </div>
 
-<hr />-->
-# 👋 Hello, I'm Moe Thet Khine
+<hr />
+
 
 <br />
 
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=Moe Thet Khine&show_icons=true&theme=radical" style="width: 40%" alt="Moe Thet's GitHub stats" />
 </div>
 
-<hr />
-
+<hr />-->
+# 👋 Hello, I'm Moe Thet Khine
 ## GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=MoeThetKhine&theme=dark&date_format=j%20M%5B%20Y%5D&start_date=2024-11-01)
 

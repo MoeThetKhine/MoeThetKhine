@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=MoeThetKhine&theme=dark&date_format=j%20M%5B%20Y%5D&start_date=2024-11-01)
 ![MoeThetKhine's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeThetKhine&show_icons=true&count_private=true&hide=contribs&theme=dark) --!>
     
-<img src = "https://github-readme-stats.vercel.app/api?username=MoeThetKhine&show_icons=true&count_private=true&hide=contribs&theme=dark" alt="GitHub Streak" style="width: 40%;"/>
+
     
 </div>-->
 

@@ -37,3 +37,9 @@ Here are some ideas to get you started:
 </div>
 
 <hr />
+
+## GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=MoeThetKhine&theme=dark&date_format=j%20M%5B%20Y%5D)
+
+![MoeThetKhine's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeThetKhine&show_icons=true&count_private=true&hide=contribs&theme=dark)
+

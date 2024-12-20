@@ -5,10 +5,10 @@
     <img src="https://streak-stats.demolab.com?user=MoeThetKhine&theme=radical&date_format=j%20M%5B%20Y%5D&start_date=2024-11-01&card_width=450&cache_seconds=60" 
          alt="GitHub Streak" 
          style="width: 45%;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=MoeThetKhine&show_icons=true&count_private=true&hide=contribs&theme=radical&icon_color=ff79c6&text_color=ffffff&bg_color=1a1b27&card_width=450&cache_seconds=60" 
-         alt="GitHub Stats" 
-         style="width: 45%;"/> 
+     <img src="https://github-readme-stats.vercel.app/api?username=MoeThetKhine&show_icons=true&theme=radical" style="width: 40%" alt="Moe Thet's GitHub stats" />
 </div>
+
+
 
 
 

@@ -4,7 +4,8 @@
 
 <div style="display: flex; justify-content: center; align-items: center; max-width: 1000px; margin: 0 auto; gap: 20px;">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=MoeThetKhine&theme=dracula" alt="GitHub Streak" style="width: 42%;" />
+        <img src="https://streak-stats.demolab.com/?user=MoeThetKhine&theme=highcontrast" alt="GitHub Streak" style="width: 42%;" />
     </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=MoeThetKhine&show_icons=true&theme=dracula" style="width: 40%" alt="Moe Thet Khine's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MoeThetKhine&show_icons=true&theme=highcontrast" style="width: 40%" alt="Moe Thet Khine's GitHub stats" />
 </div>
+

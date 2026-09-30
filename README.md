@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Moe Thet Khine
 ## GitHub Stats
 
+<div style="display: flex; justify-content: center; align-items: center; max-width: 1000px; margin: 0 auto; gap: 20px;"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=MoeThetKhine&theme=dark&background=000000&ring=FFA500&fire=FFA500&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFD700&dates=FFFFFF" alt="GitHub Streak" style="width: 42%;" /> </a> </div>
 
 
 
